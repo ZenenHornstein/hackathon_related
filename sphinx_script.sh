@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+###
+#Dependancy: $ apt-get install python3-sphinx
+###
 mkdir docs
 cd docs
 sphinx-quickstart
